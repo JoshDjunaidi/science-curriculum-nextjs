@@ -1,0 +1,174 @@
+[
+  {
+    "id": "primary-science",
+    "title": "Primary Science",
+    "topics": [
+      {
+        "id": "plants",
+        "title": "Plants",
+        "description": "Learn about plant structure and life cycle",
+        "audience": "primary school",
+        "level": "beginner",
+        "subtopics": [
+          {
+            "title": "Plant Structure",
+            "description": "Plants are living organisms that are members of the kingdom Plantae. They include familiar organisms such as trees, herbs, bushes, grasses, vines, ferns, mosses, and green algae. Plants have several main parts: roots, stems, leaves, flowers, fruits, and seeds. Each part has a specific function that helps the plant survive and reproduce."
+          },
+          {
+            "title": "Plant Life Cycle",
+            "description": "The plant life cycle begins with a seed. The seed will germinate and grow into a seedling. Then, the seedling will develop into a mature plant. The mature plant will produce flowers, which are then pollinated. After pollination, the plant will develop seeds inside a fruit. The fruit ripens and the seeds are dispersed. The cycle then repeats when the seed germinates."
+          },
+          {
+            "title": "Photosynthesis",
+            "description": "Photosynthesis is the process by which green plants create their food. The plant uses sunlight, water, nutrients from the soil, and carbon dioxide from the air to make glucose and oxygen. Photosynthesis takes place in the chloroplasts, specifically using the green pigment chlorophyll. This process is essential for all life on Earth as it produces oxygen and serves as the primary source of energy for all living organisms."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What are the main parts of a plant?",
+            "options": [
+              "Roots, leaves, and fruits",
+              "Roots, stems, leaves, flowers, fruits, and seeds",
+              "Stems, leaves, and flowers",
+              "Roots, stems, and leaves"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "What is photosynthesis?",
+            "options": [
+              "The process by which plants reproduce",
+              "The process by which plants create their food using sunlight",
+              "The process by which plants grow taller",
+              "The process by which plants absorb water"
+            ],
+            "correctAnswer": 1
+          }
+        ]
+      },
+      {
+        "id": "animals",
+        "title": "Animals",
+        "description": "Explore different animal species and habitats",
+        "audience": "primary school",
+        "level": "beginner",
+        "subtopics": [
+          {
+            "title": "Animal Classification",
+            "description": "Scientists classify animals into different groups based on their characteristics. The main groups include mammals, birds, reptiles, amphibians, fish, and invertebrates. Each group has specific features that distinguish them from other groups."
+          },
+          {
+            "title": "Animal Habitats",
+            "description": "Animals live in different environments called habitats. These include forests, deserts, oceans, polar regions, and grasslands. Each habitat has a unique set of conditions, and animals have adapted to survive in their specific habitat."
+          }
+        ],
+        "questions": [
+          {
+            "question": "Which of the following is NOT a main group for animal classification?",
+            "options": [
+              "Mammals",
+              "Reptiles",
+              "Plants",
+              "Birds"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "What is a habitat?",
+            "options": [
+              "A type of animal",
+              "The environment where an animal lives",
+              "A special feature of animals",
+              "A classification group for animals"
+            ],
+            "correctAnswer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "secondary-science",
+    "title": "Secondary Science",
+    "topics": [
+      {
+        "id": "physics",
+        "title": "Physics",
+        "description": "Study forces, energy, and the physical world",
+        "audience": "secondary school",
+        "level": "intermediate",
+        "subtopics": [
+          {
+            "title": "Forces and Motion",
+            "description": "Forces are pushes or pulls that can cause objects to move, stop, or change direction. Newton's Three Laws of Motion describe how forces affect motion. The First Law states that an object will remain at rest or in uniform motion unless acted upon by an external force. The Second Law states that force equals mass times acceleration (F=ma). The Third Law states that for every action, there is an equal and opposite reaction."
+          },
+          {
+            "title": "Energy",
+            "description": "Energy is the ability to do work. It exists in many forms including potential energy, kinetic energy, thermal energy, electrical energy, chemical energy, and nuclear energy. The Law of Conservation of Energy states that energy cannot be created or destroyed, only transformed from one form to another."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is Newton's First Law of Motion?",
+            "options": [
+              "Force equals mass times acceleration",
+              "For every action, there is an equal and opposite reaction",
+              "An object will remain at rest or in uniform motion unless acted upon by an external force",
+              "Energy cannot be created or destroyed"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "Which of the following is NOT a form of energy?",
+            "options": [
+              "Kinetic energy",
+              "Thermal energy",
+              "Force energy",
+              "Chemical energy"
+            ],
+            "correctAnswer": 2
+          }
+        ]
+      },
+      {
+        "id": "chemistry",
+        "title": "Chemistry",
+        "description": "Explore chemical reactions and substances",
+        "audience": "secondary school",
+        "level": "intermediate",
+        "subtopics": [
+          {
+            "title": "Atoms and Elements",
+            "description": "All matter is made up of atoms, which are the smallest units of an element that maintain the properties of that element. Elements are substances that cannot be broken down into simpler substances by chemical means. The periodic table organizes all known elements based on their properties and atomic structure."
+          },
+          {
+            "title": "Chemical Reactions",
+            "description": "Chemical reactions occur when substances combine or break apart to form new substances. During a chemical reaction, the atoms in the reactants rearrange to form products. Chemical reactions can be represented by chemical equations, which show the reactants on the left side and the products on the right side."
+          }
+        ],
+        "questions": [
+          {
+            "question": "What is an atom?",
+            "options": [
+              "The smallest unit of an element that maintains the properties of that element",
+              "A substance that cannot be broken down into simpler substances",
+              "A representation of a chemical reaction",
+              "A combination of different elements"
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "In a chemical equation, where are the reactants shown?",
+            "options": [
+              "On the right side",
+              "On the left side",
+              "In the middle",
+              "Above the arrow"
+            ],
+            "correctAnswer": 1
+          }
+        ]
+      }
+    ]
+  }
+] 
