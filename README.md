@@ -1,4 +1,4 @@
-# Curriculum Explorer
+# Science Curriculum
 
 A Next.js application for exploring educational curriculum, with auto-generated topic tutorials using Python scripts.
 
